@@ -20,6 +20,6 @@ ENV_FILE_PATH = BASE_DIR / ".env_pro"
 
 load_dotenv(str(ENV_FILE_PATH))
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'qnd12_app_pro.settings.pro')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'qnd11_app_pro.settings.pro')
 
 application = get_wsgi_application()
