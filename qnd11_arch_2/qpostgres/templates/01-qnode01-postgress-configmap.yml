@@ -6,7 +6,7 @@ metadata:
   labels:
     app: smartquaildb
 data:
-  POSTGRES_DB: QND12PRODDB
+  POSTGRES_DB: QND11PRODDB
   POSTGRES_USER: sqadmindb
 
  

@@ -2,7 +2,7 @@
 
 
 variable "digitalocean_token" {
-  description = "Digital Ocean Token:qnd12"
+  description = "Digital Ocean Token:qnd11"
   default     = "dop_v1_91e1ea2b2a413a087159a8c769345558a2f455770160e778b85e7b44edfc02e0"
 }
 
